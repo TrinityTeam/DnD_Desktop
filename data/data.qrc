@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/qml" lang="QML">
+        <file alias="AbilityScoresEditor.qml">qml/AbilityScoresEditor.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file alias="antigeass.png">images/antigeass.png</file>
+        <file alias="geass.png">images/geass.png</file>
+    </qresource>
+</RCC>
